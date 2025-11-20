@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 18:22:13,http://bxtv.3a.ink/migu.php?id=cctv1$订阅源
+2025-11-21 06:19:24,http://bxtv.3a.ink/migu.php?id=cctv1$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1$订阅源
@@ -14,17 +14,17 @@ CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8$订阅源
+CCTV-8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9$订阅源
 CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10$订阅源
-CCTV-10,http://112.6.239.227:8207/hls/11/index.m3u8$订阅源
-CCTV-10,http://112.6.239.227:8207/hls/11/index.m3u8$订阅源
 CCTV-10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11$订阅源
 CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8$订阅源
-CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8$订阅源
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12$订阅源
 CCTV-12,http://112.6.239.227:8207/hls/13/index.m3u8$订阅源
 CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
@@ -100,10 +100,10 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17$订阅源
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源
