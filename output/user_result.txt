@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-14 06:16:52,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
+2025-12-14 18:18:41,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
@@ -8,10 +8,10 @@ CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$订阅源
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140$订阅源
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$订阅源
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
@@ -22,9 +22,8 @@ CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅�
 CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
 CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140$订阅源
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
-CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8$订阅源
-CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8$订阅源
 CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140$订阅源
+CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 
 📡卫视频道,#genre#
@@ -54,19 +53,17 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 江苏卫视,http://183.220.107.138:4022/rtp/239.11.0.76:5140$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
-内蒙古卫视,http://124.64.223.204:8686/rtp/239.3.1.43:8176$订阅源
-内蒙古卫视,http://124.64.223.204:8686/rtp/239.3.1.43:8176$订阅源
 宁夏卫视,http://183.220.107.138:4022/rtp/239.11.0.57:5140$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://183.220.107.138:4022/rtp/239.11.0.73:5140$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
-陕西卫视,http://183.220.107.138:4022/rtp/239.11.0.54:5140$订阅源
 陕西卫视,http://124.64.223.204:8686/rtp/239.3.1.41:8140$订阅源
-陕西卫视,http://60.13.52.236:65500/newlive/live/hls/38/live.m3u8$订阅源
-陕西卫视,http://60.13.52.236:65500/newlive/live/hls/38/live.m3u8$订阅源
+陕西卫视,http://124.64.223.204:8686/rtp/239.3.1.41:8140$订阅源
+陕西卫视,http://183.220.107.138:4022/rtp/239.11.0.54:5140$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 四川卫视,http://183.220.107.138:4022/rtp/239.11.0.78:5140$订阅源
+四川卫视,http://60.13.52.236:65500/newlive/live/hls/36/live.m3u8$订阅源
 四川卫视,http://60.13.52.236:65500/newlive/live/hls/36/live.m3u8$订阅源
 深圳卫视,http://60.13.52.236:65500/newlive/live/hls/24/live.m3u8$订阅源
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8$订阅源
@@ -79,9 +76,9 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 西藏卫视,http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://183.220.107.138:4022/rtp/239.11.0.58:5140$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
 云南卫视,http://183.220.107.138:4022/rtp/239.11.0.52:5140$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
 云南卫视,http://60.13.52.236:65500/newlive/live/hls/43/live.m3u8$订阅源
 
 🎬电影频道,#genre#
@@ -109,8 +106,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源
 
 ☘️湖南频道,#genre#
-长沙新闻综合,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/CSXWMPP360.m3u8$订阅源
-长沙新闻综合,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/CSXWMPP360.m3u8$订阅源
+长沙政法,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/CSZFMPP360.m3u8$订阅源
 长沙政法,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/CSZFMPP360.m3u8$订阅源
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8$订阅源
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8$订阅源
