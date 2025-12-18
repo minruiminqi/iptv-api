@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-18 06:18:27,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
+2025-12-18 18:20:43,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
@@ -76,6 +76,8 @@ CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$�
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
+纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40$订阅源
+纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40$订阅源
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40$订阅源
