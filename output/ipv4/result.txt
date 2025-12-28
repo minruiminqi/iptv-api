@@ -1,27 +1,25 @@
 🕘️更新时间,#genre#
-2025-12-28 18:20:14,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
+2025-12-29 06:19:40,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
+CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
+CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140$订阅源
-CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
-CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$订阅源
-CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
+CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
 CCTV-10,http://183.220.107.138:4022/rtp/239.11.0.112:5140$订阅源
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140$订阅源
 CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140$订阅源
-CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
 CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
+CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
 CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140$订阅源
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
 CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140$订阅源
-CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8$订阅源
-CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
@@ -30,6 +28,7 @@ CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
+湖南卫视,http://120.211.62.180:8000/hls/30/index.m3u8$订阅源
 湖南卫视,http://120.211.62.180:8000/hls/30/index.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 北京卫视,http://183.220.107.138:4022/rtp/239.11.0.121:5140$订阅源
@@ -84,10 +83,10 @@ CHC动作电影,http://129.150.54.232:10001/yy/1382736809$订阅源
 CHC动作电影,http://129.150.54.232:10001/yy/1382736809$订阅源
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源
@@ -100,9 +99,12 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$订阅源
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40$订阅源
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源
+龙祥电影,http://zb.hpc.tw/smtv.php?id=lungxiangtime_twn$订阅源
+龙祥电影,http://zb.hpc.tw/smtv.php?id=lungxiangtime_twn$订阅源
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40$订阅源
 东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454$订阅源
 东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454$订阅源
+东森洋片,http://zb.hpc.tw/smtv.php?id=ettvwestern$订阅源
 东森超视,rtmp://f13h.mine.nu:1935/sat/tv331$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源
 
