@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-10 19:10:23,https://live.chinacert.cftest5.cn/cnmg/live/673168140$订阅源
+2026-08-11 06:36:52,https://live.chinacert.cftest5.cn/cnmg/live/673168140$订阅源
 
 📺央视频道,#genre#
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140$订阅源
@@ -17,10 +17,6 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 📡卫视频道,#genre#
 
 🎬电影频道,#genre#
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
-靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
-靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
 
 ☘️湖南频道,#genre#
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8$订阅源
