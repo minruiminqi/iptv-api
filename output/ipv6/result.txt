@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-25 08:17:41,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2026-09-25 23:01:03,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -15,6 +15,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
+天映经典,https://10.fast.hidns.vip/163189/ccm/$订阅源
+天映经典,https://10.fast.hidns.vip/163189/ccm/$订阅源
 无线星河,http://r.jdshipin.com/sXuuD$订阅源
 无线星河,http://r.jdshipin.com/sXuuD$订阅源
 
